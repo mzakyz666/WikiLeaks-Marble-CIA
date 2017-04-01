@@ -1,6 +1,6 @@
 # WikiLeaks-Marble-CIA
 
-<img src="https://raw.githubusercontent.com/zakybstrd21215/WikiLeaks-Marble-CIA/master/marble.jpg" align="center">
+<img src="https://raw.githubusercontent.com/zakybstrd21215/WikiLeaks-Marble-CIA/master/marble.jpg">
 
 Clone repository for Source Code secret anti-forensic tools Marble Framework CIA, Leaked by WikiLeaks.
 
